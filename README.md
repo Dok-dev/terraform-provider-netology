@@ -1,4 +1,4 @@
-# Terraform Provider Hashicups
+# Terraform Provider Netology
 
 Run the following command to build the provider
 
